@@ -1,5 +1,6 @@
 ### Pandora Research Project is intended for SOC analysts, cybersecurity researchers, students and anyone wants to analyze malwares and study related materials.
-
+###
+### Disclaimer. We do not encourage or endorse any illegal use of these repositories.
 <!--
 **Pandora-research/Pandora-research** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
