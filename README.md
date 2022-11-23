@@ -1,4 +1,4 @@
-### Pandora Research Project is intended for SOC analysts, cybersecurity researchers, students and anyone wants to analyze Malwares and study related materials. We aim to make Pandora rich of resources even for Threat Intelligence and Penetration testing. 
+### Pandora Research Project is intended for SOC analysts, cybersecurity researchers, students and anyone wants to analyze malware and study related materials. We aim to make Pandora rich of resources even for Threat Intelligence and Penetration testing. 
 ###
 ### Disclaimer. We do not encourage or endorse any illegal use of these repositories.
 <!--
